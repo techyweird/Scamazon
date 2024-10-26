@@ -40,24 +40,31 @@ For Software:
 # Screenshots
 <img src="https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111" width=50%/>
 
-Product Catalog
+**Product Catalog**
+
 This screen lists products available in marketplace.
+
 
 <img src="https://github.com/user-attachments/assets/5b3fd6f7-e40f-4018-a347-65e0614e9056" width=50%/>
 
-Product Page
+**Product Page**
+
 This screen shows product name, image, and discription.
+
 
 
 <img src="https://github.com/user-attachments/assets/337db61e-c54e-4d57-8036-031bd78deaeb" width=50%/>
 
-Scampay - the payment gateway
+**Scampay - the payment gateway**
+
 this image features our inhouse payment gateway - Scampay - 
+
 
 
 <img src="https://github.com/user-attachments/assets/86844634-d562-4537-b694-2d172e8a9f16" width=50%/>
 
-Order Placed
+**Order Placed**
+
 The final screen after placing an order. If you're lucky, you'll get the right product. Or else some random product will be delivered. #NotabugItsafeature
 
 ### Project Demo
