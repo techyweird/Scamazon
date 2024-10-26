@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Scamazon 👤💰
+# Scamazon
 
 
 ## Basic Details
@@ -32,16 +32,14 @@ For Software:
 For Software:
   Unity
 # Installation
-[commands]
-
-# Run
-[commands]
+APK file provided in Github repo also Google Drive link: https://drive.google.com/file/d/1ZuPHxnG_21aEHYO8q1msPCWp48xoELQg/view
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![image](https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111)
+<img src="https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111" width=50 height=90 />
 Product Catalog
 This screen lists products available in marketplace.
 
@@ -59,7 +57,6 @@ Order Placed
 The final screen after placing an order. If you're lucky, you'll get the right product. Or else some random product will be delivered. #NotabugItsafeature
 
 ### Project Demo
-# P
 https://github.com/user-attachments/assets/b5e6fd55-dee8-4b97-b44d-781e96e21cdb
 Screenrecording of ordering a product, both successful order and failed order.
 
