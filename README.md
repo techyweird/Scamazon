@@ -39,7 +39,7 @@ For Software:
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111)
-<img src="https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111" width=50 height=90 />
+<img src="https://github.com/user-attachments/assets/3f2f2f4f-3807-4876-ab62-c061ea1ba111" width=50%/>
 Product Catalog
 This screen lists products available in marketplace.
 
