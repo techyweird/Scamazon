@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Scamazon] 🎯
+# Scamazon 👤💰
 
 
 ## Basic Details
@@ -30,6 +30,7 @@ For Software:
 
 ### Implementation
 For Software:
+  Unity
 # Installation
 [commands]
 
@@ -56,6 +57,11 @@ this image features our inhouse payment gateway - Scampay -
 ![image](https://github.com/user-attachments/assets/86844634-d562-4537-b694-2d172e8a9f16)
 Order Placed
 The final screen after placing an order. If you're lucky, you'll get the right product. Or else some random product will be delivered. #NotabugItsafeature
+
+### Project Demo
+# P
+https://github.com/user-attachments/assets/b5e6fd55-dee8-4b97-b44d-781e96e21cdb
+Screenrecording of ordering a product, both successful order and failed order.
 
 ## Team Contributions
 - Joyal: QA Testing, Data collection, Image generation
