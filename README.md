@@ -2,6 +2,9 @@
 
 # Scamazon
 
+## Hosted Links
+###### APK download link: https://drive.google.com/file/d/1ZuPHxnG_21aEHYO8q1msPCWp48xoELQg/view
+###### Demo video link: https://youtu.be/QkBQuaML_zY/
 
 ## Basic Details
 ### Team Name: Fossano
@@ -68,7 +71,7 @@ this image features our inhouse payment gateway - Scampay -
 The final screen after placing an order. If you're lucky, you'll get the right product. Or else some random product will be delivered. #NotabugItsafeature
 
 ### Project Demo
-https://github.com/user-attachments/assets/b5e6fd55-dee8-4b97-b44d-781e96e21cdb
+https://youtu.be/QkBQuaML_zY/
 Screenrecording of ordering a product, both successful order and failed order.
 
 ## Team Contributions
